@@ -7,6 +7,9 @@
 
 - 📖 I am a Software Engineering undergraduate student.
 ```
+```fix
+- 🎯 Currently focused on web application development.
+```
 
 <h2 align="center">My Stack</h2>
 
