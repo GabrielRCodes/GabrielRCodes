@@ -7,7 +7,7 @@
 
 - 📖 I am a Software Engineering undergraduate student.
 ```
-```fix
+```diff
 - 🎯 Currently focused on web application development.
 ```
 
