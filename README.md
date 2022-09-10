@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Hello, welcome to my profile 🔥</h1>
+<h1 align="center">🔥 Hello, welcome to my profile 🔥</h1>a
 
 ```
 - 🎒 I am currently a Junior Developer, learning about React, Next.js, React Native, Node.js and TypeScript.
