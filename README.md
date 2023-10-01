@@ -15,7 +15,7 @@
 
 <table align="center" >
 <tr>
-<th>
+<!-- <th>
 
     LANGUAGES
 </th>
@@ -42,7 +42,7 @@
 <th>
 
     LIBRARIES
-</th>
+</th> -->
 </tr>
 
 <td align="center">
