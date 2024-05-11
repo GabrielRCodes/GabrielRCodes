@@ -23,6 +23,6 @@
    </a>
 </p>
 
-<div align="center">
-<img align="center" alt="Views" height="30" width="150" src="https://komarev.com/ghpvc/?username=GabrielRCodes&color=orange" alt="GabrielRCodes" />
+<div align="end">
+   <img align="center" alt="Views" height="30" width="150" src="https://komarev.com/ghpvc/?username=GabrielRCodes&color=orange" alt="GabrielRCodes" />
 </div>
