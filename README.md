@@ -1,14 +1,11 @@
 <h1 align="center">🔥 Hello, welcome to my profile 🔥</h1>
 
 ```
-- 🎒 I am currently a Junior Developer, learning about React, Next.js, React Native, Node.js and TypeScript.
+- 🎒 I'm a developer working with React, Next.js, Node.js, TypeScript.
 
-- 🌇 I don't speak English fluently, but i want to learn more and more about the language.
+- 🌇 I don't speak English fluently, but I'm learning about the language every day.
 
 - 📖 I am a Software Engineering undergraduate student.
-```
-```
-- 🎯 Currently focused on web application development.
 ```
 
 
