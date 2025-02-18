@@ -12,11 +12,11 @@
 <h2 align="center">Contact</h2>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/gabriel-rodrigues-3623b2225/" target="_blank" title="My likedin">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   <a href="https://gabrielrcodes.0r1.org" target="_blank" title="My Portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=web&logoColor=000000" target="_blank">
    </a>
-   <a href="https://twitter.com/GabrielRCodes" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" title="My twitter">
+   <a href="https://gloffje.0r1.org" target="_blank" title="My Other Site">
+      <img src="https://img.shields.io/badge/My%20Site-FFFFFF?style=for-the-badge&logo=web&logoColor=000000" target="_blank">
    </a>
 </p>
 
