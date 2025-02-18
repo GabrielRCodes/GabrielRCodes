@@ -8,14 +8,14 @@
 - 📖 I am a Software Engineering undergraduate student.
 ```
 
-<h2 align="center">Contact</h2>
+<h2 align="center">Informations</h2>
 
 <p align="center">
    <a href="https://gabrielrcodes.0r1.org/en" target="_blank" title="My Portfolio">
       <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=web&logoColor=000000">
    </a>
    <br>
-   <a href="https://gloffje.0r1.org/en" target="_blank" title="My other webapps">
+   <a href="https://gloffje.0r1.org/en" target="_blank" title="My webapps">
       <img src="https://img.shields.io/badge/My%20Webapps-FFFFFF?style=for-the-badge&logo=web&logoColor=000000">
    </a>
 </p>
